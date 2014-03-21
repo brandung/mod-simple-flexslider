@@ -9,7 +9,7 @@ Needs [flexslider](https://github.com/woothemes/flexslider) and [jquery](https:/
 
 ```JavaScript
 <!-- mod: simple flexslider -->
-<h2 class="mod-headline">Flexslider Modul</h2>
+<h2 class="mod-headline">Flexslider Module</h2>
 <section class="mod-simple-flexslider-wrapper">
 	<div class="flexslider">
 		<ul class="slides">
