@@ -5,7 +5,7 @@ Basic Flexslider Module
 
 Needs [flexslider](https://github.com/woothemes/flexslider) and [jquery](https://github.com/jquery/jquery) to work properly.
 
-## HTML Snippet:
+### HTML Markup:
 
 ```JavaScript
 <!-- mod: simple flexslider -->
@@ -25,7 +25,7 @@ Needs [flexslider](https://github.com/woothemes/flexslider) and [jquery](https:/
 });
 ```
 
-## JavaScript Snippet:
+### JavaScript Snippet:
 
 ```JavaScript
 Brandung.Plugins.modFlexslider = function () {
