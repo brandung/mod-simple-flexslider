@@ -6,12 +6,12 @@
  * @require {flexslider}
  */
 Brandung.Plugins.modFlexslider = function () {
-	$('.mod-simple-flexslider-wrapper').loadModule([
+	$('.mod-simple-flexslider').loadModule([
 		Brandung.folderPath + '/libs/vendor/flexslider/flexslider.css',
 		Brandung.folderPath + '/libs/vendor/flexslider/jquery.flexslider-min.js'
 	],
 	function () {
-		$('.mod-simple-flexslider-wrapper .flexslider').flexslider({
+		$('.mod-simple-flexslider .flexslider').flexslider({
 			animation: "slide"
 		});
 	});
